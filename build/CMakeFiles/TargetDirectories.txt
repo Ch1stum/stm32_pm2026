@@ -1,0 +1,6 @@
+/home/ch1stum/stm32_pm2026/build/CMakeFiles/stm32_template.dir
+/home/ch1stum/stm32_pm2026/build/CMakeFiles/bin.dir
+/home/ch1stum/stm32_pm2026/build/CMakeFiles/hex.dir
+/home/ch1stum/stm32_pm2026/build/CMakeFiles/flash.dir
+/home/ch1stum/stm32_pm2026/build/CMakeFiles/edit_cache.dir
+/home/ch1stum/stm32_pm2026/build/CMakeFiles/rebuild_cache.dir

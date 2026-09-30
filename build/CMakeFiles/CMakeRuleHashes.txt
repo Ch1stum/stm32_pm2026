@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+3c127828eb5d16b49e6c707f40871d7b CMakeFiles/bin
+3c127828eb5d16b49e6c707f40871d7b CMakeFiles/flash
+3c127828eb5d16b49e6c707f40871d7b CMakeFiles/hex
+e326655f9301c88ae17280a8e999b3eb build/stm32_template.bin
+47ca55f49b5e925728d6b3b8757c51b8 build/stm32_template.hex
+861f53e0826e1c40bf05e414067287d2 flash_target
